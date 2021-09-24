@@ -41,5 +41,5 @@ def hbnb():
 
 
 if __name__ == "__main__":
-    """ Main Function """
+    """ function to run if ran standalone """
     app.run(host='0.0.0.0', port=5000)
