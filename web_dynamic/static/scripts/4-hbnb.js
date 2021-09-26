@@ -45,8 +45,6 @@ $(() => {
             <div class="number_bathrooms">${place.number_bathrooms}
               Bathroom${s3}</div>
           </div>
-          <div class="user">
-          </div>
           <div class="description">
             ${place.description}
           </div>

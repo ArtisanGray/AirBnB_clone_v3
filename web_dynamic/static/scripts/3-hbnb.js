@@ -40,10 +40,8 @@ $(() => {
           </div>
           <div class="information">
             <div class="max_guest">${place.max_guest} Guest${s}</div>
-            <div class="number_rooms">${place.number_rooms}
-              Bedroom${s2}</div>
-            <div class="number_bathrooms">${place.number_bathrooms}
-              Bathroom${s3}</div>
+            <div class="number_rooms">${place.number_rooms} Bedroom${s2}</div>
+            <div class="number_bathrooms">${place.number_bathrooms} Bathroom${s3}</div>
           </div>
           <div class="user">
           </div>
